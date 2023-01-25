@@ -1,0 +1,9 @@
+{
+	"name": "SiriADFDev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5eff2561-d4d5-43e6-9d95-f8eb1eb37f43",
+		"tenantId": "82da9de4-4c2f-454f-9a98-3f7384840f19"
+	}
+}
